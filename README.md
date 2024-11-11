@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+![Visitor Count](https://profile-counter.glitch.me/TimRyan3001/count.svg)
+
+[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=TimRyan3001)](https://github.com/Timryan3001/github-readme-stats)
+
 <!--
 **Timryan3001/Timryan3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
